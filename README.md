@@ -1,1 +1,1 @@
-Hi Welcome to NerdyCodes!
+Hi Welcome to NerdyCodes! Find codes for Python basics here for free! 
